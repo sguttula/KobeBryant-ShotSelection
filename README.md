@@ -1,6 +1,7 @@
 # KobeBryant-ShotSelection
 ## 1	Project Description, Details, and Goals
-This project was found on Kaggle, which describes every shot Kobe has taken during his career. Our goal for this project is to determine what type of shot it was, which specific game it was, the location of the shot (loc_x, loc_y), predict whether the basket went in (shot_made_flag), how many shots did Kobe sink, game date, season number, the probability of Kobe's shot and many other features in the data set. Another goal for this project is to portray all data entries and separate them by multiple categories for each game, each season, and or the whole career of Kobe Bryant. Link to project: https://www.kaggle.com/c/kobe-bryant-shot-selection/overview
+##### This project is dedicated to the 16x All star, 5 time world champion, the 2008 NBA MVP, 2 time NBA Finals MVP, #24, KOBE BRYANT.  
+Our goal for this project is to determine what type of shot it was, which specific game it was, the location of the shot (loc_x, loc_y), predict whether the basket went in (shot_made_flag), how many shots did Kobe sink, game date, season number, the probability of Kobe's shot and many other features in the data set. Another goal for this project is to portray all data entries and separate them by multiple categories for each game, each season, and or the whole career of Kobe Bryant. Link to project: https://www.kaggle.com/c/kobe-bryant-shot-selection/overview
 ## 2	Data
 The data set includes over 30,000 entries and 24 features, with data involving the location and circumstances of every field goal attempted by Kobe Bryant during his 20-year career. The features are listed below, with our target label indicated in bold.
 #### action_type
